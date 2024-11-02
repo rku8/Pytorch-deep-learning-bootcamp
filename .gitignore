@@ -1,0 +1,8 @@
+*.ipynb_checkpoints
+*CustomImageCNNModel-master*
+*rnn_20_epoch.net
+*rnn_50_epoch.net
+*rnn_100_epoch.net
+*example.net
+*Final_Shakespeare.net
+Data
